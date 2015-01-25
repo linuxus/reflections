@@ -4,4 +4,8 @@ A .git folder is created in the directory to make it as a Git Repository and tra
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is where files are tracked by Git before they are committed into the repository. Staging area will provide a place where files can be added or removed before committing it to the repository
 
-  
+How can you use the staging area to make sure you have one commit per logical change?
+By adding separate files to the stating area and committing with logical description
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When working on a new experimental feature that is not part of the current branch or to showcase a new functionality to other users.
