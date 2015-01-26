@@ -9,3 +9,12 @@ By adding separate files to the stating area and committing with logical descrip
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When working on a new experimental feature that is not part of the current branch or to showcase a new functionality to other users.
+
+How do the diagrams help you visualize the branch structure?
+Diagram helps to visually compare current branch with the rest of the repository tree structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the result of the merge creates a new master branch that contains explicit new codes.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git automatic merging really helps create a new master branch where all the necessary code changes from different branches will be added and provides feedback where there are conflicts. However; Git automatic will not be able to detect the validity of any of the code changes.
