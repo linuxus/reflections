@@ -1,1 +1,2 @@
 When would you want to use a remote repository rather than keeping all your work local?
+In order to allow multiple users to collaborate on the same project or branch Git remote repositories are helpful.
