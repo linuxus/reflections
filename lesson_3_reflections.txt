@@ -3,3 +3,6 @@ In order to allow multiple users to collaborate on the same project or branch Gi
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 The remote branch might be considered the stable version of the code and accurate information where my local repository is in development mode. In order to avoid any conflict or bug in my local repository code I'd only pull when necessary.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Having a local copy of last known state of remote repository is important so that any new changes that were added in the local copy as well.
