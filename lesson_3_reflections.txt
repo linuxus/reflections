@@ -6,3 +6,6 @@ The remote branch might be considered the stable version of the code and accurat
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Having a local copy of last known state of remote repository is important so that any new changes that were added in the local copy as well.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+If I do not have access to Git or GitHub I would probably use one of the cloud based sharing files (Box, Dropbox, Google Drive etc...). It would be easier for everyone collaborating to see changes but the hard part would be to be able to merge different code from different people.
